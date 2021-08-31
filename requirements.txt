@@ -1,8 +1,9 @@
-voila
-fastbook
 fastai>=2.0.0
 graphviz
-pillow<7
-packaging
 ipywidgets
+matplotlib
 nbdev>=0.2.12
+pandas
+scikit_learn
+azure-cognitiveservices-search-imagesearch
+sentencepiece
