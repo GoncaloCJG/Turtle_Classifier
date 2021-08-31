@@ -1,4 +1,2 @@
 # Turtle_Classifier
-Deep Learning model that classifies turtles between three species.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GoncaloCJG/Turtle_Classifier/HEAD?urlpath=%2Fvoila%2Frender%2FTurtleClassifier_BinderApp.ipynb)
+This is a turtle classifier. It was made with 450 images (150 of each specie), which were scraped or downloaded manually in some cases. It was done by transfer learning using the RESNET 50 model from Pytorch and Fastai libraries. In the validation of the model, the error rate was 1%.
