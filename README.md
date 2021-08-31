@@ -1,2 +1,2 @@
 # Turtle_Classifier
-This is a turtle classifier. It was made with 450 images (150 of each specie), which were scraped or downloaded manually in some cases. It was done by transfer learning using the RESNET 50 model from Pytorch and Fastai libraries. In the validation of the model, the error rate was 1%.
+This is a turtle species classifier. It classifies between "Aldabra Tortoises" from "Hawksbill Turtles" and from "Red Eared Slider Turtles". It was made with 450 images (150 of each species), which were scrapped or downloaded manually in some cases. It was done by transfer learning using the RESNET 50 model from Pytorch and Fastai libraries. In the validation of the model, the error rate was 1%.
