@@ -1,7 +1,5 @@
-fastai>=2.0.0
-ipywidgets
-nbdev>=0.2.12
-jupyter-server-proxy==1.2.0
-torch==1.6.0              
-torchvision==0.7.0
-voila==0.2.10
+voila
+fastai>=2
+pillow<7
+packaging
+ipywidgets==7.5.1
