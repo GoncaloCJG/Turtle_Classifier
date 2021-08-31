@@ -1,6 +1,8 @@
 voila
 fastbook
-fastai>=2
+fastai>=2.0.0
+graphviz
 pillow<7
 packaging
-ipywidgets==7.5.1
+ipywidgets
+nbdev>=0.2.12
