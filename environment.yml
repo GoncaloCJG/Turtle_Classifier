@@ -1,12 +1,14 @@
 name: Turtle_Classifier
 channels:
-    - fastai
-    - pytorch
-    - defaults
+  - conda
+  - conda-forge
+  - pytorch
 dependencies:
-  - python>=3.6
-  - pytorch>=1.6
-  - torchvision
+  - python=3.7.9
+  - voila
   - pip
-  - pip:
-    - -r file:requirements.txt
+  - jupyter-server-proxy
+  - pytorch 
+  - torchvision
+  - pip:        
+    - fastai==2.0.10 
