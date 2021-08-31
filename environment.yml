@@ -1,0 +1,7 @@
+name: Turtle_Classifier
+dependencies:
+  - fastbook
+  - voila
+  - pillow
+  - packaging
+  - ipywidgets
